@@ -44,6 +44,38 @@ namespace VariablesOppsExpressions_Wk1Day2
             int samAge = 47;
             Console.WriteLine(jessicaAge > samAge);
 
+            //Practice problems turning english  into c#
+            int mikePaid = 13;
+            Console.WriteLine(mikePaid * 4);
+
+            int totalCups = 7;
+            Console.WriteLine(totalCups - 2);
+
+            int totalMoney = 40;
+            int package = 8;
+            Console.WriteLine(totalMoney / package);
+
+            int allMoney = 41;
+            int weekendMoney = 29;
+            Console.WriteLine(allMoney - weekendMoney);
+
+            int juliaMiles = 47;
+            int previousMiles = 30;
+            int pravasMiles = juliaMiles - previousMiles;
+            Console.WriteLine(pravasMiles);
+
+            int envelopeMoney = 12;
+            int box = 3;
+            int envelopes = envelopeMoney / box;
+            Console.WriteLine(envelopes);
+
+            float noraMoney = 27.10f;
+            float salad = 5.12f;
+            Console.WriteLine(noraMoney + salad);
+
+
+         
+
 
         }
     }
