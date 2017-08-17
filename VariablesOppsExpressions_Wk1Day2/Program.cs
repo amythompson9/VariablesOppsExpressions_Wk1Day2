@@ -73,6 +73,44 @@ namespace VariablesOppsExpressions_Wk1Day2
             float salad = 5.12f;
             Console.WriteLine(noraMoney + salad);
 
+            int totalStudents = 331;
+            int studentsInCars = 7;
+            int studentsOnBus = totalStudents - studentsInCars;
+            int numberOfBuses = 6;
+            int numberOnEachBus = studentsOnBus / numberOfBuses;
+            Console.WriteLine(numberOnEachBus);
+
+            float aliyahMoney = 24.0f;
+            int numberOfPencils = 7;
+            float moneyLeft = 10.0f;
+            Console.WriteLine((aliyahMoney - moneyLeft) / numberOfPencils);
+            
+            //sumof 72 problem
+            int sumOfNumbers = 72;
+            int middleNumber = sumOfNumbers / 3;
+            int maxNumber = middleNumber + 1;
+            int smallNumber = middleNumber - 1;
+            Console.WriteLine(smallNumber);
+
+            //sum of 48
+            int sumOfEven = 48;
+            int middleEven = sumOfEven / 3;
+            int maxEven = middleEven + 2;
+            int smallEven = middleEven - 2;
+            Console.WriteLine(smallEven);
+
+
+            int boughtBoxes = 7;
+            int boxesLeft = 22;
+            int boxesBeforeFire = boxesLeft * 2;
+            Console.WriteLine(boxesBeforeFire);
+                 
+
+
+            
+       
+
+
 
          
 
