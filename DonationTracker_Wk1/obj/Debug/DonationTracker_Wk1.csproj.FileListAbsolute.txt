@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DonationTracker_Wk1\DonationTracker_Wk1\bin\Debug\DonationTracker_Wk1.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DonationTracker_Wk1\DonationTracker_Wk1\bin\Debug\DonationTracker_Wk1.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DonationTracker_Wk1\DonationTracker_Wk1\bin\Debug\DonationTracker_Wk1.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DonationTracker_Wk1\DonationTracker_Wk1\obj\Debug\DonationTracker_Wk1.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DonationTracker_Wk1\DonationTracker_Wk1\obj\Debug\DonationTracker_Wk1.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DonationTracker_Wk1\DonationTracker_Wk1\obj\Debug\DonationTracker_Wk1.pdb
